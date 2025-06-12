@@ -1,0 +1,1 @@
+This is a front end written in Flutter that utilizes Firebase authorization.  This connects to a Raspberry Pi that is running a Flask server.  It reads sensors from an arduino and then controls all functions through the Pi.  
